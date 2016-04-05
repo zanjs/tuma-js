@@ -1,14 +1,25 @@
 {
   "name": "tuma",
-  "version": "0.0.1",
-  "description": "极简高性能模板引擎",
-  "main": "tuma.js",
+  "version": "0.0.2",
+  "description": "js ",
+  "main": "哦",
   "directories": {
     "test": "test"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanjs/tuma-js.git"
+  },
+  "keywords": [
+    "模板引擎"
+  ],
+  "author": "julian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zanjs/tuma-js/issues"
+  },
+  "homepage": "https://github.com/zanjs/tuma-js#readme"
 }
