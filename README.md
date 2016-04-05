@@ -73,3 +73,8 @@ var result = tuma.tmpl(tpl, data);
 </ul>
 </div>
 ```
+
+
+### test show
+
+![](./test/test.png)
