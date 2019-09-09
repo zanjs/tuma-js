@@ -1,4 +1,7 @@
 # tuma.js
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/tuma-js.svg)](https://greenkeeper.io/)
+
 极简高性能模板引擎
 
 ============
